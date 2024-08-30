@@ -113,7 +113,7 @@ int main() {
             cout << "Enter book title: ";
             cin.ignore();
             getline(cin, title);
-            cout << "Enter author name: ";
+            cout << "Enter the author/s name: ";
             getline(cin, author);
             cout << "Enter publication year: ";
             cin >> year;
